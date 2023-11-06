@@ -1,8 +1,5 @@
-# trialproject1
+Project Title "A work in progress"
 
-#Project Title
-A work in progress
-
-##Project Description
-I have created this repository to work on the skills that i pick up duirng the bootcamp. This repository is where i intend to apply those skills, make mistakes and hopefully learn along the way.
+Project Description
+This repository has been created to work on the skills gained duirng the bootcamp. This is where those skills will be applied and assessed for progress.
 
